@@ -1,0 +1,31 @@
+
+    Compensador de ángulo de fase
+
+En SEP el ángulo de transmisión 'd'(delta)
+requerido apra el uso óptimo se vuelve incompatible.
+
+El DESFASADOR puede ser considerado una fuente de tensión
+con Amplitud y Fase CONTROLABLES. Dicha fuente de tensión 
+se dispone en serie a la generación, por lo cual para la
+línea y la carga se le aplica la SUMA de las tensiones 
+alimentadoras en serie.
+
+La idea principal es mantener un nivel adecuado de 
+transferencia de potencia, independiente el ángulo de transmisión
+'d' (delta)
+
+
+
+    Controlador Universal Flujo de Potencia (UPFC)
+
+Este dispositivo se representa por 2 fuentes de tensión, 
+una en serie y la otra en derivación(shunt)
+
+UPFC es un compensador genérico, se puede considerar que
+los otros compensadores cumplen funciones particulares
+de este.
+
+Trabaja tanto con potencia reactiva y activa, caso interesante
+sucede cuando la potencia consumida/suministrada por una
+de las fuentes es sumnistrada/consumida por la otra fuente
+
