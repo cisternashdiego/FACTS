@@ -1,0 +1,3 @@
+v0.07 2017/04/03 S.Fingerhuth Agregado los logos nuevos de la PUCV
+v0.08 2017/04/28 S.Fingerhuth En base a la versión 0.06 se generó la 0.08 agregando los logos y manteniendo la funcionalidad de las Macro, que habían desaparecido en la v0.07. Las Macros al parecer desaparecen si cuando se hace "Grabar Como Plantilla" no se graba en el directorio preestablecido de Microsoft.
+
